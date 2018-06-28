@@ -1,0 +1,11 @@
+public class RAHUL_Practice {
+
+
+    public static void main(String[] args) {
+
+
+        System.out.println("Hello Rahul");
+    }
+
+
+}
